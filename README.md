@@ -1,0 +1,2 @@
+# sitename
+securıty scrıpt sıte
